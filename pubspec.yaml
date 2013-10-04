@@ -1,0 +1,4 @@
+name: sierpinski_triangle
+description: A sample web application
+dependencies:
+  browser: any
